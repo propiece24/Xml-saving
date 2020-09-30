@@ -1,0 +1,13 @@
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\bin\Debug\netcoreapp3.1\Xml saving grejs.exe
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\bin\Debug\netcoreapp3.1\Xml saving grejs.deps.json
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\bin\Debug\netcoreapp3.1\Xml saving grejs.runtimeconfig.json
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\bin\Debug\netcoreapp3.1\Xml saving grejs.runtimeconfig.dev.json
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\bin\Debug\netcoreapp3.1\Xml saving grejs.dll
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\bin\Debug\netcoreapp3.1\Xml saving grejs.pdb
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\obj\Debug\netcoreapp3.1\Xml saving grejs.csprojAssemblyReference.cache
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\obj\Debug\netcoreapp3.1\Xml saving grejs.AssemblyInfoInputs.cache
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\obj\Debug\netcoreapp3.1\Xml saving grejs.AssemblyInfo.cs
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\obj\Debug\netcoreapp3.1\Xml saving grejs.csproj.CoreCompileInputs.cache
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\obj\Debug\netcoreapp3.1\Xml saving grejs.dll
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\obj\Debug\netcoreapp3.1\Xml saving grejs.pdb
+C:\Users\andreas.larsson15\Documents\Xml saving\Xml saving grejs\obj\Debug\netcoreapp3.1\Xml saving grejs.genruntimeconfig.cache

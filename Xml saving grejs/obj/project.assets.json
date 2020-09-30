@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.NETCore.App >= 3.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\andreas.larsson15\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\andreas.larsson15\\Documents\\Xml saving\\Xml saving grejs\\Xml saving grejs.csproj",
+      "projectName": "Xml saving grejs",
+      "projectPath": "C:\\Users\\andreas.larsson15\\Documents\\Xml saving\\Xml saving grejs\\Xml saving grejs.csproj",
+      "outputPath": "C:\\Users\\andreas.larsson15\\Documents\\Xml saving\\Xml saving grejs\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "3.1",
+            "autoReferenced": true
+          }
+        }
+      }
+    }
+  }
+}
